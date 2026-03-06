@@ -968,6 +968,8 @@ namespace TaskSnips
                 {
                     Text = "❗",
                     FontSize = 11,
+                    FontWeight = FontWeights.Bold,
+                    Foreground = Brushes.Red,
                     VerticalAlignment = VerticalAlignment.Center,
                     Margin = new Thickness(0, 0, 4, 0)
                 };

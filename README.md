@@ -69,7 +69,7 @@ If you prefer building QuickTasks yourself:
 
 ```
 git clone https://github.com/Ventexx/QuickTasks.git
-cd QuickTasks
+cd QuickTasks/src
 ```
 
 2. **Build the project**
@@ -84,7 +84,7 @@ dotnet build -c Release
 dotnet run
 ```
 
-4. **Locate the compiled executable**
+3. **Locate the compiled executable**
 
 The compiled files will be located in:
 
